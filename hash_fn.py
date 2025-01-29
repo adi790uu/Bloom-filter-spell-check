@@ -12,7 +12,7 @@ def fnv_1a(data):
     return hash
 
 
-data = input("Enter data: ").encode("utf-8")
-hash_value = fnv_1a(data)
+# data = input("Enter data: ").encode("utf-8")
+# hash_value = fnv_1a(data)
 
-print(hash_value)
+# print(hash_value)

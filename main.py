@@ -1,6 +1,6 @@
 import sys
 import struct
-from bloom_filter import BloomFilter
+from src.bloom_filter import BloomFilter
 
 
 def build_bloom_filter_from_file_path(file_path, false_postive_rate):

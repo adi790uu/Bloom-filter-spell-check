@@ -1,5 +1,5 @@
 import math
-from hash_fn import fnv_1a
+from src.hash_fn import fnv_1a
 
 
 class BloomFilter:
